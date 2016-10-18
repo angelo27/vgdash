@@ -43,125 +43,13 @@
                     
                     <div class="card">
                         <div class="card-header">
+
+
+
+                        
                         </div>
                         
-                        <div class="table-responsive">
-                            <table id="data-table-selection" class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th data-column-id="id" data-type="numeric" data-identifier="true">ID</th>
-										<th data-column-id="company">Company</th>
-                                        <th data-column-id="project">Project Name</th>
-                                        <th data-column-id="received" data-order="desc">Status</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-										<td>10251</td>
-                                        <td><a href="#">JMGC Marketing</a></td>
-                                        <td>RockyCreekDentalCare.com</td>
-                                        <td>Active</td>
-                                    </tr>
-                                    
-                                    <tr>
-                                        <td>10252</td>
-										<td>BGG Local Marketing</td>
-                                        <td><a href="project-details.php">JamesPettetDPM.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10239</td>
-										<td>Local Lion Marketing</td>
-                                        <td><a href="project-details.php">CrossFitThames.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10244</td>
-										<td>BGG Local Marketing</td>
-                                        <td><a href="project-details.php">App4USolutions.no</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10249</td>
-										<td>My Site Launcher</td>
-                                        <td><a href="project-details.php">MySiteLauncher.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10237</td>
-										<td>Swift Local Marketing</td>
-                                        <td><a href="project-details.php">SwiftLocalMarketing.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10242</td>
-										<td>First Windsor Group</td>
-                                        <td><a href="project-details.php">FirstWindsOrGroup.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10247</td>
-										<td>Market My Dallas Business</td>
-                                        <td><a href="project-details.php">5thGenerationContracting.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10252</td>
-										<td>7th Vision Marketing and Consulting</td>
-                                        <td><a href="project-details.php">Globalisos.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10236</td>
-										<td>Roswil Mediar</td>
-                                        <td><a href="project-details.php">MariosPizzaNJ.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10241</td>
-										<td>JP Global Marketing</td>
-                                        <td><a href="project-details.php">ClientOrder1.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10246</td>
-										<td>Online Wealth Magic</td>
-                                        <td><a href="project-details.php">AllStar-Rental.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10251</td>
-										<td>Capital Network Solutions, Inc.</td>
-                                        <td><a href="project-details.php">LoomisCabinetSales.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10235</td>
-										<td>White Lotus Marketing & Consulting</td>
-                                        <td><a href="project-details.php">WhiteLotusMarketing.net</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10240</td>
-										<td>Digital Sales Development</td>
-                                        <td><a href="project-details.php">Gabrieladror.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10245</td>
-										<td>Elite Market Links</td>
-                                        <td><a href="project-details.php">LibertyPestInc.com/a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10250</td>
-										<td>Right Coast Marketing, LLC</td>
-                                        <td><a href="project-details.php">JSKBLaw.com</a></td>
-                                        <td>Active</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+
                     </div>
                     
 
