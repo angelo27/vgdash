@@ -7,7 +7,7 @@
             <section id="content">
                 <div class="container">
                     <div class="block-header">
-                        <h2>Campaigns</h2>
+                        <h2>Web Design Services</h2>
                         
                         <ul class="actions">
                             <li>
