@@ -39,12 +39,127 @@
                             </li>
                         </ul>
                     </div>
-                            <div class="card">
-                                <div class="card-body card-padding">
-                                    Cras leo sem, egestas a accumsan eget, euismod at nunc. Praesent vel mi blandit, tempus ex gravida, accumsan dui. Sed sed aliquam augue. Nullam vel suscipit purus, eu facilisis ante. Mauris nec commodo felis. 
+ 
+                    <div class="card">                      
+                        <div class="card-body card-padding">
+                            <div role="tabpanel">
+                                <ul class="tab-nav" role="tablist">
+                                    <li class="active"><a href="#">Overview</a></li>
+                                    <li role="presentation"><a href="#">Proposals</a></li>
+                                    <li role="presentation"><a href="#">Task</a></li>
+                                    <li role="presentation"><a href="#">Tickets</a></li>
+                                    <li role="presentation"><a href="#">Work Report</a></li>
+                                    <li role="presentation"><a href="#">Files</a></li>                                    
+                                </ul>
+                            </div>
+                    <div class="text-center m-t-25 p-t-15 block-header-alt">
+                        <h3>NEW AGENCIES, MEDIUM SIZED AGENCIES, TO ENTERPRISE LEVEL AGENCIES, OUR PRODUCTS AND SERVICES ARE BUILT FOR SUCCESS!</h3>
+                        <p class="c-gray m-t-20">Cras pretium elementum lacus ac auctor. Sed id mi nec ex placerat iaculis. Suspendisse volutpat purus ac metus venenatis rutrum. Morbi sit amet dui in nisi lacinia varius. Aliquam vehicula molestie sagittis. </p>
+                    </div>                          
+                        </div>
+                    </div>
+
+                    <div class="row pricing-table">
+                        <div class="col-sm-4">
+                            <div class="card pt-inner">
+                                <div class="pti-header bgm-bluegray">
+                                    <h2>SERVICES FOR YOUR AGENCY</h2>
+                                    <div class="ptih-title"></div>
+                                </div>
+                
+                                <div class="pti-body">
+                                    <div class="ptib-item">
+                                        Free Customizable Dashboard
+                                    </div>
+                                    <div class="ptib-item">
+                                        Free Dedicated Account Manager
+                                    </div>
+                                    <div class="ptib-item">
+                                        Free VIP Webinars
+                                    </div>
+                                    <div class="ptib-item">
+                                        Free SEO Tools
+                                    </div>
+                                    <div class="ptib-item">
+                                        Free Keyword Research
+                                    </div>
+                                    <div class="ptib-item">
+                                        <strong>Pro Membership Available Including:</strong><br />
+                                        Lead Generation Software<br />
+                                        Advanced Traffic and Metrics Suite<br />
+                                        Advanced SEO Tools<br />
+                                        Pro Site Audit Report<br />
+                                    </div>                                    
+                                </div>
+                
+                                <div class="pti-footer">
+                                    <a href="#" class="bgm-amber"><i class="zmdi zmdi-check"></i></a>
                                 </div>
                             </div>
-
+                        </div>
+                
+                        <div class="col-sm-4">
+                            <div class="card pt-inner">
+                                <div class="pti-header bgm-green">
+                                    <h2>SERVICES FOR YOUR CLIENT</h2>
+                                    <div class="ptih-title">Banana Pack</div>
+                                </div>
+                
+                                <div class="pti-body">
+                                    <div class="ptib-item">
+                                        Nullam diam dolor, sollicitudin vitae magna ut, pharetra tempor velit. Donec quis egestas nisl, id porta mi. Phasellus eleifend facilisis
+                                    </div>
+                                    <div class="ptib-item">
+                                        Ina enim liberosed whens
+                                    </div>
+                                    <div class="ptib-item">
+                                        Sipsum maunich lendilwer
+                                    </div>
+                                    <div class="ptib-item">
+                                        Dacider mengthu ferine looking seth
+                                    </div>
+                                    <div class="ptib-item">
+                                        Sinnab wanliset wareder thenli
+                                    </div>
+                                </div>
+                
+                                <div class="pti-footer">
+                                    <a href="#" class="bgm-green"><i class="zmdi zmdi-check"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                
+                        <div class="col-sm-4">
+                            <div class="card pt-inner">
+                                <div class="pti-header bgm-cyan">
+                                    <h2>FULL SERVICE WEB DESIGN TEAM</h2>
+                                    <div class="ptih-title">Banana Pack</div>
+                                </div>
+                
+                                <div class="pti-body">
+                                    <div class="ptib-item">
+                                        Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris iaculis laoreet mattis piuminer lasethol and envy
+                                    </div>
+                                    <div class="ptib-item">
+                                        Maricial wendys boraoand denish
+                                    </div>
+                                    <div class="ptib-item">
+                                        Manchil vallao whengoo
+                                    </div>
+                                    <div class="ptib-item">
+                                        Shaeel ipsum leeshan
+                                    </div>
+                                    <div class="ptib-item">
+                                        Hasellus ultrices tincidunt
+                                    </div>
+                                </div>
+                
+                                <div class="pti-footer">
+                                    <a href="#" class="bgm-cyan"><i class="zmdi zmdi-check"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                    
                             
 
                 </div>
