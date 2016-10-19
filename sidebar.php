@@ -32,15 +32,13 @@
                     <ul class="main-menu">
                         <li class="active"><a href="index.php"><i class="zmdi zmdi-home"></i> Dashboard</a></li>                       
                         <li class="sub-menu">
-                            <a href="#"><i class="zmdi zmdi-widgets"></i>Services</a>
+                            <a href="#"><i class="zmdi zmdi-widgets"></i>Products and Services</a>
 
                             <ul>
-                                <li><a href="#">SEO</a></li>
-                                <li><a class="active" href="#">Brand Optimization</a></li>
-								<li><a class="active" href="service-web-design.php">Web Design</a></li>
-								<li><a class="active" href="#">PPC</a></li>
-								<li><a class="active" href="#">Social Media</a></li>
-								<li><a class="active" href="#">Local Buzz</a></li>
+                                <li><a class="active" href="service-main.php">Main</a></li>
+                                <li><a href="#">Partner Services</a></li>
+                                <li><a href="#">Online Marketing</a></li>
+								<li><a href="service-web-design.php">Web Design</a></li>
                             </ul>
                         </li>
                         <li class="sub-menu">

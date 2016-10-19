@@ -7,7 +7,7 @@
             <section id="content">
                 <div class="container">
                     <div class="block-header">
-                        <h2>Web Design Services</h2>
+                        <h2>Products and Services</h2>
                         
                         <ul class="actions">
                             <li>
@@ -39,37 +39,13 @@
                             </li>
                         </ul>
                     </div>
-                    
-                    <div class="card">
+                            <div class="card">
+                                <div class="card-body card-padding">
+                                    Cras leo sem, egestas a accumsan eget, euismod at nunc. Praesent vel mi blandit, tempus ex gravida, accumsan dui. Sed sed aliquam augue. Nullam vel suscipit purus, eu facilisis ante. Mauris nec commodo felis. 
+                                </div>
+                            </div>
 
-                        <div class="card-header ch-alt">
-                        <h2 class="project-title">OUR PRODUCTS AND SERVICES<small>JMGC Marketing</small></h2>
-                                                <ul class="actions">
-                                                    <li class="dropdown">
-                                                        <a href="#" data-toggle="dropdown">
-                                                            <i class="zmdi zmdi-more-vert"></i>
-                                                        </a>
-                                                        
-                                                        <ul class="dropdown-menu dropdown-menu-right">
-                                                            <li>
-                                                                <a href="#">Edit Project</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Archive Project</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Delete Project</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Manage Widget</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                        </div>
-
-                    </div> <!-- end card -->
-                    
+                            
 
                 </div>
             </section>
@@ -136,9 +112,7 @@
         
         <script src="vendors/bower_components/jquery.nicescroll/jquery.nicescroll.min.js"></script>
         <script src="vendors/bower_components/Waves/dist/waves.min.js"></script>
-        <!-- Welcome User 
-        <script src="vendors/bootstrap-growl/bootstrap-growl.min.js"></script>
-        -->
+
         <script src="vendors/bower_components/bootstrap-sweetalert/lib/sweet-alert.min.js"></script>  
         <script src="vendors/bootgrid/jquery.bootgrid.min.js"></script>
         
