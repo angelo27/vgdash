@@ -52,14 +52,11 @@
                                     <li role="presentation"><a href="#">Files</a></li>                                    
                                 </ul>
                             </div>
-                    <div class="text-center m-t-25 p-t-15 block-header-alt">
-                        <h3>NEW AGENCIES, MEDIUM SIZED AGENCIES, TO ENTERPRISE LEVEL AGENCIES, OUR PRODUCTS AND SERVICES ARE BUILT FOR SUCCESS!</h3>
-                        <p class="c-gray m-t-20">Cras pretium elementum lacus ac auctor. Sed id mi nec ex placerat iaculis. Suspendisse volutpat purus ac metus venenatis rutrum. Morbi sit amet dui in nisi lacinia varius. Aliquam vehicula molestie sagittis. </p>
-                    </div>                          
-                        </div>
-                    </div>
-
-                    <div class="row pricing-table">
+                            <div class="text-center m-t-25 p-t-15 block-header-alt">
+                                <h3>New agencies, medium sized agencies, to enterprise level agencies, <br />our products and services are built for success!</h3>
+                                <p class="c-gray m-t-20">Cras pretium elementum lacus ac auctor. Sed id mi nec ex placerat iaculis. Suspendisse volutpat purus ac metus venenatis rutrum. Morbi sit amet dui in nisi lacinia varius. Aliquam vehicula molestie sagittis. </p>
+                            </div>                          
+                                                <div class="row pricing-table">
                         <div class="col-sm-4">
                             <div class="card pt-inner">
                                 <div class="pti-header bgm-bluegray">
@@ -85,15 +82,17 @@
                                     </div>
                                     <div class="ptib-item">
                                         <strong>Pro Membership Available Including:</strong><br />
-                                        Lead Generation Software<br />
-                                        Advanced Traffic and Metrics Suite<br />
-                                        Advanced SEO Tools<br />
-                                        Pro Site Audit Report<br />
+                                        
+                                        <div class="sub-list"><i class="zmdi zmdi-check"></i>Lead Generation Software</div>
+                                        <div class="sub-list"><i class="zmdi zmdi-check"></i>Advanced Traffic and Metrics Suite</div>
+                                        <div class="sub-list"><i class="zmdi zmdi-check"></i>Advanced SEO Tools</div>
+                                        <div class="sub-list"><i class="zmdi zmdi-check"></i>Pro Site Audit Report</div>
+                                     
                                     </div>                                    
                                 </div>
                 
                                 <div class="pti-footer">
-                                    <a href="#" class="bgm-amber"><i class="zmdi zmdi-check"></i></a>
+                                    <a href="#" class="bgm-bluegray">Learn more</a>
                                 </div>
                             </div>
                         </div>
@@ -102,25 +101,34 @@
                             <div class="card pt-inner">
                                 <div class="pti-header bgm-green">
                                     <h2>SERVICES FOR YOUR CLIENT</h2>
-                                    <div class="ptih-title">Banana Pack</div>
+                                    <div class="ptih-title"></div>
                                 </div>
                 
                                 <div class="pti-body">
                                     <div class="ptib-item">
-                                        Nullam diam dolor, sollicitudin vitae magna ut, pharetra tempor velit. Donec quis egestas nisl, id porta mi. Phasellus eleifend facilisis
+                                        Search Engine Optimization
                                     </div>
                                     <div class="ptib-item">
-                                        Ina enim liberosed whens
+                                        Local Business SEO
                                     </div>
                                     <div class="ptib-item">
-                                        Sipsum maunich lendilwer
+                                        Social Media Services
                                     </div>
                                     <div class="ptib-item">
-                                        Dacider mengthu ferine looking seth
+                                        Paid Advertising (PPC)
                                     </div>
                                     <div class="ptib-item">
-                                        Sinnab wanliset wareder thenli
+                                        Online Reputation Repair
                                     </div>
+                                    <div class="ptib-item">
+                                        Website Audit
+                                    </div>
+                                    <div class="ptib-item">
+                                        Brand Booster
+                                    </div>
+                                    <div class="ptib-item">
+                                        Brand Optimization
+                                    </div>                                                                        
                                 </div>
                 
                                 <div class="pti-footer">
@@ -133,7 +141,7 @@
                             <div class="card pt-inner">
                                 <div class="pti-header bgm-cyan">
                                     <h2>FULL SERVICE WEB DESIGN TEAM</h2>
-                                    <div class="ptih-title">Banana Pack</div>
+                                    <div class="ptih-title"></div>
                                 </div>
                 
                                 <div class="pti-body">
@@ -160,6 +168,10 @@
                             </div>
                         </div>
                     </div>                    
+                        </div>
+                    </div>
+
+                  
                             
 
                 </div>
